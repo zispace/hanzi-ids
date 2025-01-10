@@ -1,0 +1,12 @@
+[submodule "cjkvi-ids"]
+	path = cjkvi-ids
+	url = https://github.com/cjkvi/cjkvi-ids
+[submodule "chise-ids"]
+	path = chise-ids
+	url = https://gitlab.chise.org/CHISE/ids
+[submodule "yibai-ids"]
+	path = yibai-ids
+	url = https://github.com/yi-bai/ids
+[submodule "babelstone-ids"]
+	path = babelstone-ids
+	url = https://github.com/qundao/mirror-babelstone-ids
