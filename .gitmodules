@@ -3,7 +3,7 @@
 	url = https://github.com/cjkvi/cjkvi-ids
 [submodule "chise-ids"]
 	path = chise-ids
-	url = https://gitlab.chise.org/CHISE/ids
+	url = https://gitlab.chise.org/CHISE/ids.git
 [submodule "yibai-ids"]
 	path = yibai-ids
 	url = https://github.com/yi-bai/ids
