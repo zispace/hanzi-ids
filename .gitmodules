@@ -10,3 +10,6 @@
 [submodule "babelstone-ids"]
 	path = babelstone-ids
 	url = https://github.com/qundao/mirror-babelstone-ids
+[submodule "hfhchan-ids"]
+	path = hfhchan-ids
+	url = https://github.com/hfhchan/ids
